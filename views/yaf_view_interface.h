@@ -30,3 +30,4 @@ YAF_STARTUP_FUNCTION(view_interface);
  * vim600: noet sw=4 ts=4 fdm=marker
  * vim<600: noet sw=4 ts=4
  */
+ * c-basic-offset: 
